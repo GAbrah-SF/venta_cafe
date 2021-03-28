@@ -9,12 +9,13 @@ h1{
     width: 40%;
 }
 
-#logitos{
+.logitos{
+    cursor: pointer;
     width: 2em;
 }
 
 #img_cafe{
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
     display: block;
 }
